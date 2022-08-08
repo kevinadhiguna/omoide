@@ -41,4 +41,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Reference
+
+- [Full Stack MERN Project - Build and Deploy an App | React + Redux, Node, Express, MongoDB by JavaScript Mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/omoide)](https://github.com/kevinadhiguna)
